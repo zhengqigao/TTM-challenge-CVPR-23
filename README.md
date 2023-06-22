@@ -4,7 +4,7 @@ This is the code base we used for [Ego4d TTM challenge](https://eval.ai/web/chal
 
 ## Approach
 
-You can locate a technical report within this repository. Our approach relies on Transformer-based models. To enhance the performance, we have employed an ensemble of two trained models. We may explore further improvements to our approach in the future. As a result, at this moment, we can only provide two JSON files, which contain predictions from the two trained models on the test set, along with the ensemble script.
+You can locate a technical report within this repository. Our approach relies on Transformer-based models. To enhance the performance, we have employed an ensemble of two trained models. We might explore further improvements to our approach in the future, so we provide two JSON files at this moment along with the ensemble script.
 
 ## Reference
 
